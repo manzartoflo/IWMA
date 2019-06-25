@@ -1,0 +1,6 @@
+pandas
+selenium
+urllib.parse
+requests
+time
+bs4
